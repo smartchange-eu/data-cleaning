@@ -1,0 +1,16 @@
+# participant data and generated outputs
+/DATA/
+/RESULTS/
+
+# local testing files
+/results.txt
+/test.py
+
+# python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# virtual environments
+.venv/
+venv/
+env/
